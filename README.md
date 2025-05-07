@@ -14,3 +14,8 @@ I am focused on building my career as a Software Engineer with a deep interest i
 [![](https://visitcount.itsvg.in/api?id=McAhmed120&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<img src="https://raw.githubusercontent.com/McAhmed120/McAhmed120/output/snake.svg" alt="Snake animation" />
+
+###
